@@ -1,5 +1,5 @@
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `SOME OUTPUT`
+### SOME OUTPUT
 
 ![Screenshot_1](https://user-images.githubusercontent.com/67970973/99145670-c99bce00-2681-11eb-9f77-f42b9944ff4d.png)
 
