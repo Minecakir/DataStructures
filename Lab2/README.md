@@ -30,3 +30,11 @@ terms of the polynomial are stored in decreasing order of their exponents in the
 ![image](https://user-images.githubusercontent.com/67970973/108620553-e80e2400-743d-11eb-82b9-0f235a01d8a5.png)
 
 ![image](https://user-images.githubusercontent.com/67970973/108620571-007e3e80-743e-11eb-90cf-bd85bd652978.png)
+
+### OUTPUT
+
+![image](https://user-images.githubusercontent.com/67970973/108620612-4cc97e80-743e-11eb-9728-0cfbaf268f5a.png)
+
+![image](https://user-images.githubusercontent.com/67970973/108620624-5fdc4e80-743e-11eb-93e5-83b1507954e6.png)
+
+
