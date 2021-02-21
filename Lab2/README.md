@@ -1,13 +1,11 @@
 <h3 align="center">Polynomials Using Linked Lists</h3> 
 
 
-### Assignment
-```diff
-- In mathematics, a polynomial is an expression constructed from variables (also known as indeterminates) and constants,
-- using the operations of addition, subtraction, multiplication, and constant non-negative whole number exponents. 
-- For example, x²-4x+7 is a polynomial, but x²-(4/x)+7x^3/2 is not, because its second term involves
-- division by the variable x and also because its third term contains an exponent that is not a whole number.
-```
+### 1 Assignment
+In mathematics, a polynomial is an expression constructed from variables (also known as indeterminates) and constants,
+using the operations of addition, subtraction, multiplication, and constant non-negative whole number exponents. 
+For example, x²-4x+7 is a polynomial, but x²-(4/x)+7x^3/2 is not, because its second term involves division by the variable
+x and also because its third term contains an exponent that is not a whole number.
 
 Polynomials are one of the most important concepts in algebra and throughout mathematics and science. They
 are used to form polynomial equations, which encode a wide range of problems, from elementary word problems to
