@@ -1,0 +1,4 @@
+A text file is a file that only contains 
+text and has no special formatting 
+such as bold text, italic text, images, etc.
+bold, and, file, that, and.
